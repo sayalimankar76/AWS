@@ -1,0 +1,39 @@
+1: what is cloud?
+
+"The cloud" refers to servers that are accessed over the Internet, and the software and databases that run on those servers. Cloud servers are located in data centers all over the world. By using cloud computing, users and companies don't have to manage physical servers themselves or run software applications on their own machines.
+
+Cloud computing is a term referred to storing and accessing data over the internet. It doesn't store any data on the hard disk of your personal computer. In cloud computing, you can access data from a remote server.
+
+Cloud computing is the on-demand availability of computer system resources, especially data storage (cloud storage) and computing power, without direct active management by the user. The term is generally used to describe data centers available to many users over the Internet.
+	
+2. what are the advantages and disadvantages of cloud?
+
+ADVANTAGES
+Easy implementation:- Cloud hosting allows business to retain the same applications and business processes without having to deal with the backend technicalities. Readily manageable by the Internet, a cloud infrastructure can be accessed by enterprises easily and quickly. 
+
+Accessibility:- Access your data anywhere, anytime. An Internet cloud infrastructure maximizes enterprise productivity and efficiency by ensuring your application is always accessible. This allows for easy collaboration and sharing among users in multiple locations. 
+
+No hardware required:- Since everything will be hosted in the cloud, a physical storage center is no longer needed. However, a backup could be worth looking into in the event of a disaster that could leave your company's productivity stagnant. 
+
+Cost per head:- Overhead technology costs are kept at a minimum with cloud hosting services, enabling businesses to use the extra time and resources for improving the company infrastructure.
+
+ Flexibility for growth:- The cloud is easily scalable so companies can add or subtract resources based on their needs. As companies grow, their system will grow with them.
+
+ Efficient recovery:- Cloud computing delivers faster and more accurate retrievals of applications and data. With less downtime, it is the most efficient recovery plan.
+
+ DISADVANTAGES
+ No longer in control:- When moving services to the cloud, you are handing over your data and information. For companies who have an in-house IT staff, they will be unable to handle issues on their own. However, Stratosphere Networks has a 24/7 live help desk that can rectify any problems immediately. 
+
+May not get all the features:-  Not all cloud services are the same. Some cloud providers tend to offer limited versions and enable the most popular features only, so you may not receive every feature or customization you want. Before signing up, make sure you know what your cloud service provider offers. 
+
+Doesn't mean you should do away with servers:- You may have fewer servers to handle which means less for your IT staff to handle, but that doesn't mean you can let go of all your servers and staff. While it may seem costly to have data centers and a cloud infrastructure, redundancy is key for backup and recovery. 
+
+No Redundancy:-  A cloud server is not redundant nor is it backed up. As technology may fail here and there, avoid getting burned by purchasing a redundancy plan. Although it is an extra cost, in most cases it will be well worth it.
+
+ Bandwidth issues:- For ideal performance, clients have to plan accordingly and not pack large amounts of servers and storage devices into a small set of data centers.
+
+3.what is EC-2 ?
+
+ EC2 instance is a virtual server in Amazon's Elastic Compute Cloud (EC2) for running applications on the Amazon Web Services (AWS) infrastructure. AWS is a comprehensive, evolving cloud computing platform; EC2 is a service that allows business subscribers to run application programs in the computing environment.
+
+
